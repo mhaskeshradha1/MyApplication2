@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application 2</string>
+    <string name="welcome_message">Hello Montclair</string>
+    <string name="logo_name">Montclair State University</string>
+</resources>
